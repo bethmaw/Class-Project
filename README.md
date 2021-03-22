@@ -1,4 +1,4 @@
-[README.docx](https://github.com/bethmaw/Curating-the-NASS-Bee-Colony-and-Honey-1974-2020-Dataset/files/6064137/README.docx)
+
 This README serves as description of all files contained in this project.
 
 1)Curating the NASS Bee Colony and Honey 1974-2020.docx: 
@@ -20,4 +20,4 @@ These files are a list of all the data files provided with the NASS Bee Colony a
  		 -stressors.csv
  -stressors.json
 •	(Containing data of factors that affect changes in bee colony numbers, by state, quarterly from the years 2015 to 2018.)
-![image](https://user-images.githubusercontent.com/79709177/112002673-61507380-8add-11eb-8da7-42dda98a7c37.png)
+
